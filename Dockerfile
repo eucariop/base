@@ -36,4 +36,4 @@ LABEL name="${IMAGE_NAME}" \
       org.opencontainers.image.description="${IMAGE_DESCRIPTION}" \
       io.k8s.description="${IMAGE_DESCRIPTION}" \
       io.k8s.display-name="${IMAGE_TITLE}" \
-      io.openshift.tags="${IMAGE_NAME},centos,centos8,rootfs-creator"
+      io.openshift.tags="${IMAGE_NAME},centos,centos8"
